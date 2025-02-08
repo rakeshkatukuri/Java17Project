@@ -9,7 +9,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <!-- Java 17 LTS and Maven 3.8.6 are required -->
+    <!-- Java 17 LTS and Maven 3.8.7 are required -->
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
